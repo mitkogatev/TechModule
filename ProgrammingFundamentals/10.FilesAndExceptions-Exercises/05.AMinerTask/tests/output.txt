@@ -1,0 +1,11 @@
+Gold -> 155
+Silver -> 10
+Copper -> 17
+END of Test
+Iron -> 100
+Silver -> 30
+END of Test
+Stone -> 4000000001
+Coal -> 1
+Gold -> 18
+END of Test
